@@ -1,0 +1,5 @@
+name = "vproplan-worker"
+type = "javascript"
+compatibility_date = "2025-04-05"
+
+main = "./workers/index.js"
